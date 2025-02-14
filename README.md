@@ -24,6 +24,11 @@ The goal of this repository is to create an open, publicly available resource of
   Author: Ian Griffiths  
   Description: Learn to build cloud, web, and desktop applications using C# 8.0, with real-world examples and best practices.
 
+- **Pro XAML with C#: From Design to Deployment on WPF, Windows Store, and Windows Phone (2013)**  
+  Author: Adam Nathan  
+  Description: A detailed guide to mastering XAML with C# for building Windows applications, focusing on WPF, Windows Store, and Windows Phone. The book covers everything from design principles to deployment strategies, offering practical advice and expert insights.
+  
+
 ### Computer Vision
 
 - **Computer Vision: A Modern Approach**  
