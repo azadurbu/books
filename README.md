@@ -27,7 +27,10 @@ The goal of this repository is to create an open, publicly available resource of
 - **Pro XAML with C#: From Design to Deployment on WPF, Windows Store, and Windows Phone (2013)**  
   Author: Adam Nathan  
   Description: A detailed guide to mastering XAML with C# for building Windows applications, focusing on WPF, Windows Store, and Windows Phone. The book covers everything from design principles to deployment strategies, offering practical advice and expert insights.
-  
+
+- **Professional WPF Programming: .NET Development with the Windows® Presentation Foundation**
+   Authors: Chris Andrade, Shawn Livermore, Mike Meyers, Scott Van Vliet  
+  Description: A comprehensive guide to mastering WPF for .NET developers, covering UI design, data binding, and advanced techniques for building modern desktop applications.
 
 ### Computer Vision
 
